@@ -1,0 +1,44 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "Test gulp project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dush88gs@bitbucket.org/dush88gs/gulp-test.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass"
+  ],
+  "author": "Dushan Maduranga",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/dush88gs/gulp-test#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.18.13",
+    "browserify": "^14.4.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-newer": "^1.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "run-sequence": "^2.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
