@@ -1,14 +1,14 @@
 {
-  "name": "gulp-test",
+  "name": "gulp-react-import-export",
   "version": "1.0.0",
-  "description": "Test gulp project",
+  "description": "Gulp workflow for React with working ES6 import/export.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://dush88gs@bitbucket.org/dush88gs/gulp-test.git"
+    "url": "https://github.com/dush88gs/gulp-react-import-export"
   },
   "keywords": [
     "gulp",
@@ -16,7 +16,7 @@
   ],
   "author": "Dushan Maduranga",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/dush88gs/gulp-test#readme",
+  "homepage": "https://github.com/dush88gs",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
