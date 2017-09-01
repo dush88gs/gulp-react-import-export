@@ -26,4 +26,4 @@ Run > `npm install` to install the project dependencies
 
 Run the Gulp command > `gulp watch` to start a server
 
-Run the > `gulp build` to create a production ready code in dist folder
+Run the > `gulp build` to create a production ready code in **dist** folder
